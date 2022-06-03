@@ -1,7 +1,7 @@
 # Teste-API
 Teste de API para candidatos
 
-## Orientação
+## Descrição
  <p>Logo abaixa estará dois exemplos de entrada e saida de acordo com as descrições dos testes 1 e 2 respectivamente</p>
 
 
